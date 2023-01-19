@@ -1,0 +1,6 @@
+
+gio 19 gen 2023, 17:18:30, CET
+
+[    4.969410] EXT4-fs (sda1): re-mounted. Opts: errors=remount-ro
+[    6.409069] random: 86 urandom warning(s) missed due to ratelimiting
+################################################################
